@@ -1,6 +1,6 @@
 import express from 'express';
 import pool from './db';
-
+// this is a comment
 const app = express();
 app.use(express.json());
 
